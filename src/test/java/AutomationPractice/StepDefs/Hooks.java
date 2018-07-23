@@ -16,7 +16,7 @@ public class Hooks extends  BasePage {
 //        System.out.println("Executing scenario "+ scenario.getName());
     }
 
-    @After
+   
     public void cleanUp(){
 //        scenario.write("finished scenario");
 //        if(scenario.isFailed()) {
